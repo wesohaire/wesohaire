@@ -1,5 +1,5 @@
 # 👋🏾 Hey! 
-I’m a Design Lead at [Sequoia Capital](https://www.sequoiacap.com/), where I’m using design to help some amazing investors and change how early companies get surfaced, evaluated, and funded. Before that, I led teams at [Dropbox](http://dropbox.com) and [Hudl](https://www.hudl.com), where I led their partnership products with [Nike](https://www.nike.com). 
+I’m a Design Director at [Sequoia Capital](https://www.sequoiacap.com/), where I’m using design to help some amazing investors and change how early companies get surfaced, evaluated, and funded. Before that, I led teams at [Dropbox](http://dropbox.com) and [Hudl](https://www.hudl.com), where I led their partnership products with [Nike](https://www.nike.com). 
 
 I also founded [Blacks Who Design](https://blackswho.design) and lead an effort inside MillerKnoll’s [Diversity in Design](https://news.hermanmiller.com/2021-06-15-herman-miller-launches-diversity-in-design-collaborative-to-take-meaningful-action-to-increase-diversity-in-the-design-industry). When I’m not at work, I’m hanging out with my wife and two rambunctious kids in Southern California and usually listening to [Robert Glasper](https://www.robertglasper.com).
 ## 🗣 Speaking
